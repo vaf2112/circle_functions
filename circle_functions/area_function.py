@@ -1,4 +1,2 @@
-from math import pi
-
 def circle_area(r):
-    return r * r * pi
+    return r * r * 3.14
